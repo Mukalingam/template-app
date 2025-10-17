@@ -1,0 +1,5 @@
+openai==2.3.0
+streamlit==1.38.0
+sounddevice
+wavio
+python-dotenv
